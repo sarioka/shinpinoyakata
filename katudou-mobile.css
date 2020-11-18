@@ -80,10 +80,10 @@
   }
   .takushi-box a{
     position:absolute;
-    top:14px;
-    left:11px;
+    top:7px;
+    left:10px;
     color:black;
-    font-size:10px;
+    font-size:7px;
     cursor:pointer;
   }
   .takushi-box img{
